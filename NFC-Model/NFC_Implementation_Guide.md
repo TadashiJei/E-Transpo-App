@@ -1,4 +1,3 @@
-```markdown
 # E-Transpo NFC Implementation Guide
 
 This guide explains how to implement NFC functionality in your FlutterFlow E-Transpo application for handling Beep card transactions.
@@ -142,5 +141,3 @@ Common issues and solutions:
 - [flutter_nfc_kit Documentation](https://pub.dev/packages/flutter_nfc_kit)
 - [Flutter NFC Guide](https://flutter.dev/docs/development/platform-integration/platform-channels)
 - [Source_Code_Dev](https://github.com/TadashiJei/)
-
-```
