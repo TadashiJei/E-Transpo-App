@@ -23,9 +23,6 @@
 - Station mapping for:
   - MRT-7
   - MRT-3
-  - LRT-1
-  - LRT-2
-  - PNR
 - P2P bus routes
 - PITX terminal integration
 - Route planning (Sakay.ph API alternative)
